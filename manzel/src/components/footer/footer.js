@@ -4,9 +4,9 @@ import "./footer.css";
 
 const Footer = () => {
   return (
-    <footer class="footer" id="footer">
-      <div class="footer-left col-md-4 col-sm-6">
-        <p class="about">
+    <footer className="footer" id="footer">
+      <div className="footer-left col-md-4 col-sm-6">
+        <p className="about">
           <span> About the company</span> Manzel is an Educational Platform in
           virtual reality, that specializes in making education more interactive
           by linking Architecural education with games and artificial
@@ -23,7 +23,7 @@ const Footer = () => {
       </div>
       <div className="footer-center col-md-4 col-sm-6">
         <div>
-          <i class="fa fa-map-marker"></i>
+          <i className="fa fa-map-marker"></i>
           <p>
             <span> King Hussien St.</span> Amman, Jordan
           </p>
@@ -44,7 +44,7 @@ const Footer = () => {
           {" "}
           {/* Company<span> <img src=""</span> */}
         </h2>
-        <p class="menu">
+        <p className="menu">
           <a href="/#intro"> Home</a> |<a href="/#vision"> Vision</a> |
           <a href="/#aboutUs"> About Us</a> |<a href="/#products"> Products</a>{" "}
           |<a href="/#why"> Why VR?</a> |<a href="#team"> Meet The Team</a>

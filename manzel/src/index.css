@@ -1,7 +1,9 @@
+/* @import url('https://fonts.cdnfonts.com/css/bahnschrift'); */
+
 * {
   margin: 0;
   padding: 0;
-  font-family: Bahnschrift;
+  font-family: 'Bahnschrift', sans-serif;
 }
 
 .main {
