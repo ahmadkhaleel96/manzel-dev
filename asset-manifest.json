@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/manzel-dev/static/css/main.685e89cf.css",
+    "main.js": "/manzel-dev/static/js/main.b1846db9.js",
+    "static/media/manzel_intro_test2.mp4": "/manzel-dev/static/media/manzel_intro_test2.75821aa44e2a075c4ed3.mp4",
+    "static/media/spark_intro_test2.mp4": "/manzel-dev/static/media/spark_intro_test2.dcf71efba5f171523834.mp4",
+    "static/media/manzel_intro_test.mp4": "/manzel-dev/static/media/manzel_intro_test.b53369e13703fcd4ceff.mp4",
+    "static/media/manzelverse_intro.mp4": "/manzel-dev/static/media/manzelverse_intro.817ce85c7c9784fab2e8.mp4",
+    "static/media/varjo-2.webp": "/manzel-dev/static/media/varjo-2.62a61ae186b80a9aab9d.webp",
+    "static/media/why-vr.jpg": "/manzel-dev/static/media/why-vr.d2b4b54c6c5bf03027e9.jpg",
+    "static/media/hadeel.jpeg": "/manzel-dev/static/media/hadeel.37fb81befd7784bb5d7c.jpeg",
+    "static/media/samer.jpeg": "/manzel-dev/static/media/samer.eee20e51b67d5ccece46.jpeg",
+    "static/media/Ahmad.jpg": "/manzel-dev/static/media/Ahmad.a217a2f7c10a49c8ab76.jpg",
+    "static/media/manzel_arch_boption3.png": "/manzel-dev/static/media/manzel_arch_boption3.582bd35c7c0f14d6e86a.png",
+    "index.html": "/manzel-dev/index.html",
+    "main.685e89cf.css.map": "/manzel-dev/static/css/main.685e89cf.css.map",
+    "main.b1846db9.js.map": "/manzel-dev/static/js/main.b1846db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685e89cf.css",
+    "static/js/main.b1846db9.js"
+  ]
+}
